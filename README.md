@@ -37,6 +37,8 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ![app](images/GistScreenshot2.jpg)
 
+![app](images/GistScreenshot3.jpg)
+
 ## Links
 [Github Gist](https://gist.github.com/Lexxvasquez/474f0e20e330a4d6f659c87617d5288e)
 
