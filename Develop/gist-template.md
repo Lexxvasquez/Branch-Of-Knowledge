@@ -75,6 +75,17 @@ A lookahead assertion "looks ahead": it attempts to match the subsequent input w
 A negative lookbehind assertion asserts true if the pattern inside the lookbehind is not matched. For example, (? <! xyz)abc asserts that there cannot be the string, xyz , just before matching the string, abc.
 
 ## Author
-https://gist.github.com/Lexxvasquez/4bb0120b058e3ab24b58ae3f743bf76d
+My name is Alexis. I was born and raised in the Sunshine State! I love spending time with my German Shepherd and Bichon Frise on days off! I work full time and currently enrolled in University of Central Florida FullStack Bootcamp as a parttime student. I'm looking forward to the new career change and learning more
+things in this field! 
+
+Lexx Vasquez
+E: lexx.sunshineteam@gmail.com
+P: 000.000.0000
+
+https://gist.github.com/Lexxvasquez/474f0e20e330a4d6f659c87617d5288e
+
+https://github.com/Lexxvasquez/Branch-Of-Knowledge
+
+
 
 
