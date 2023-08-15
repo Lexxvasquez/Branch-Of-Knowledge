@@ -33,11 +33,11 @@ WHEN I reach the end of the tutorial<br>
 THEN I find a section about the author and a link to the author’s GitHub profile
 
 ## Screenshot
-![app](images/GistScreenshot1.jpg)
+![app]()
 
-![app](images/GistScreenshot2.jpg)
+![app]()
 
 ## Links
-[Github Gist](https://gist.github.com/Lexxvasquez/d888e79bcb7a846d6624cd3257a16e1b)
+[Github Gist](https://gist.github.com/Lexxvasquez/4bb0120b058e3ab24b58ae3f743bf76d)
 
 [Github Repo](https://github.com/Lexxvasquez/Branch-Of-Knowledge)
